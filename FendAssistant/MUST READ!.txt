@@ -20,11 +20,12 @@ have two seprate screens, drag in stuff from theirs yours has not
 yet learned so that way it will learn quicker and saves you time!
 
 Want to help?
-This is soon to be a open source project! We will update this
-when it is and you can step in and help us out! 
+This is a open source project, add in to help the cause!
+https://github.com/JoeyBost2/FendAI
 
 Want to show support?
-Email us at anonymousgamer752@gmail.com
+Add or contribute to the development! 
+https://github.com/JoeyBost2/FendAI
 
 Found issues/bugs/errors/ect.?
 Please email us them at anonymousgamer752@gmail.com
