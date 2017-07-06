@@ -1,4 +1,5 @@
 @echo off
+::This is a test
 cls
 cd C:\Users\%username%\Desktop\FendAssistant\Memory
 cls
