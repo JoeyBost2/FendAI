@@ -1,0 +1,35 @@
+This is Fend the virtual assistant!
+He is a self learning AI. You get to teach him!
+Other peoples experiance and memory can be given to him!
+Just find someone else who uses him!
+
+How to make sure it works:
+Keep the FendAssistant folder on the desktop!
+Leave the memory file in FendAssistant folder! Leave memory alone!
+The main fender thing can be moved elsewhere but we prefer you make a 
+shortcut to use.
+
+Share what your fender learned!
+We want fender to become smarter! And also this helps others learn to!
+Go into your FendAssistant and grab the memory then bring to any website
+for others to download! 
+
+Use others knowledge with your Fender!
+Download their memory and then open both yours & theirs so you
+have two seprate screens, drag in stuff from theirs yours has not
+yet learned so that way it will learn quicker and saves you time!
+
+Want to help?
+This is soon to be a open source project! We will update this
+when it is and you can step in and help us out! 
+
+Want to show support?
+Email us at anonymousgamer752@gmail.com
+
+Found issues/bugs/errors/ect.?
+Please email us them at anonymousgamer752@gmail.com
+
+Preprogrammed commands:
+Time - Tells you the time
+Date - Tells you the date
+credits - Gives you the credits
